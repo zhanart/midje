@@ -5,7 +5,8 @@ This is a simply project that use Midje for testing. In this project, I created 
 ## Usage
 
 if you just want to run it once. 
-        lein midje 
-
+````
+lein midje 
+````
 ## License
 You are free to copy and distribute this.
